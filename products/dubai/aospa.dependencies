@@ -1,7 +1,7 @@
 [
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_device_motorola_dubai",
+        "remote":       "github",
+        "repository":   "SM7325-AE/android_device_motorola_dubai",
         "target_path":  "device/motorola/dubai",
         "revision":     "topaz"
     },
@@ -24,8 +24,8 @@
         "revision":     "topaz-888"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_hardware_qcom_gps",
+        "remote":       "github",
+        "repository":   "SM7325-AE/android_hardware_qcom_gps",
         "target_path":  "hardware/qcom/gps",
         "revision":     "topaz-legacy-component"
     },
@@ -36,14 +36,14 @@
         "revision":     "topaz-888"
     },
     {
-        "remote":       "aospa",
-        "repository":   "AOSPA/android_kernel_motorola_sm7325",
+        "remote":       "github",
+        "repository":   "SM7325-AE/android_kernel_motorola_sm7325",
         "target_path":  "kernel/msm-5.4",
         "revision":     "topaz"
     },
     {
-        "remote":       "blobs",
-        "repository":   "proprietary_vendor_motorola",
+        "remote":       "github",
+        "repository":   "SM7325-AE/proprietary_vendor_motorola",
         "target_path":  "vendor/motorola",
         "revision":     "topaz"
     },
