@@ -43,8 +43,8 @@
     },
     {
         "remote":       "github",
-        "repository":   "SM7325-AE/proprietary_vendor_motorola",
-        "target_path":  "vendor/motorola",
+        "repository":   "SM7325-AE/android_vendor_motorola_dubai",
+        "target_path":  "vendor/motorola/dubai",
         "revision":     "topaz"
     },
     {
