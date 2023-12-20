@@ -37,7 +37,7 @@
     },
     {
         "remote":       "github",
-        "repository":   "SM7325-AE/android_kernel_motorola_sm7325",
+        "repository":   "SM7325-AE/msm-5.4",
         "target_path":  "kernel/msm-5.4",
         "revision":     "topaz"
     },
