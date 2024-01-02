@@ -3,7 +3,7 @@
         "remote":       "github",
         "repository":   "SM7325-AE/android_device_motorola_dubai",
         "target_path":  "device/motorola/dubai",
-        "revision":     "topaz"
+        "revision":     "topaz-wip"
     },
     {
         "remote":       "aospa",
@@ -37,15 +37,15 @@
     },
     {
         "remote":       "github",
-        "repository":   "SM7325-AE/msm-5.4",
+        "repository":   "SM7325-AE/android_kernel_motorola_dubai",
         "target_path":  "kernel/msm-5.4",
-        "revision":     "topaz"
+        "revision":     "topaz-wip"
     },
     {
         "remote":       "github",
         "repository":   "SM7325-AE/android_vendor_motorola_dubai",
         "target_path":  "vendor/motorola/dubai",
-        "revision":     "topaz"
+        "revision":     "topaz-wip"
     },
     {
         "remote":       "blobs-gitlab",
