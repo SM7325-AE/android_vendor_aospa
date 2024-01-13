@@ -1,9 +1,15 @@
 [
     {
         "remote":       "github",
-        "repository":   "XIAOMI-SM6225-bengal-5-15/device_xiaomi_topaz",
+        "repository":   "SM7325-AE/device_xiaomi_topaz",
         "target_path":  "device/xiaomi/topaz",
         "revision":     "topaz"
+    },
+    {
+        "remote":       "github",
+        "repository":   "SM7325-AE/device_xiaomi_topaz-kernel",
+        "target_path":  "kernel/msm-5.15",
+        "revision":     "lineage-20"
     },
     {
         "remote":       "github",
